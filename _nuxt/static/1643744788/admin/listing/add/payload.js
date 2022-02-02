@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/listing/add", {data:[{}],fetch:{},mutations:void 0});

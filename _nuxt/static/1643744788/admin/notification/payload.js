@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/notification", {data:[{}],fetch:{},mutations:void 0});

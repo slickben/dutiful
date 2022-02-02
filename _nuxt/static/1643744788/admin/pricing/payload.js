@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/pricing", {data:[{}],fetch:{},mutations:void 0});
